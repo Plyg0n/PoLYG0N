@@ -1,6 +1,6 @@
 @import url('./main.css');
 main{
-    display: block;
+    display: none;
 }
 .main{
     color: #fff;
