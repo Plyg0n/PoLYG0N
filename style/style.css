@@ -1,6 +1,6 @@
 @import url('./main.css');
 main{
-    display: none;
+    display: block;
 }
 .main{
     color: #fff;
@@ -390,8 +390,8 @@ h4{
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    background: rgb(255,255,255);
-    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 100%);
+    background: rgb(147,69,255);
+    background: linear-gradient(90deg, rgba(147,69,255,1) 0%, rgba(0,0,0,1) 100%);
 }
 
 .timer {
