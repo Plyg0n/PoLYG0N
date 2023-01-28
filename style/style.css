@@ -570,3 +570,15 @@ footer .right svg:hover{
     top: 0;
     left: 0;
 }
+.flipdown .rotor-group:nth-child(1) .rotor-group-heading:before {
+    color: white;
+}
+.flipdown .rotor-group:nth-child(2) .rotor-group-heading:before {
+    color: white;
+}
+.flipdown .rotor-group:nth-child(3) .rotor-group-heading:before {
+    color: white;
+}
+.flipdown .rotor-group:nth-child(4) .rotor-group-heading:before {
+    color: white;
+}
